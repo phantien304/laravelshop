@@ -1,4 +1,5 @@
-<?php 
+<?php
+varr_dump('1');
 session_start();
 ini_set('display_errors',0);
 include "admin-bao-mat-ma/library/config.php";
